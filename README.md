@@ -1,2 +1,2 @@
-# Logo-SFML
-Logo clone made with C++ and SFML.
+# TicTacToe-SFML
+TicTacToe made with C++ and SFML.
